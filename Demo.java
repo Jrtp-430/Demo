@@ -1,5 +1,7 @@
 public class Demo{
 public static void main (String[]args){
-Sysstem.out.println("hi");
+System.out.println("hi");
+System.out.println("pavani");
+Sysstem.out.println("i love u");
 }
 }
